@@ -5,4 +5,8 @@
 	  <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ExtraConstraints.Fody" Version="1.11.0" />
+  </ItemGroup>
+
 </Project>
