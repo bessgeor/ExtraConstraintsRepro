@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+*.csproj.user
+/*.opensdf
+/*.sdf
+/*.suo
+/*.sln.ide/
+/.vs/
+*.psess
+*.vspx
+*.user
+/.cr/
